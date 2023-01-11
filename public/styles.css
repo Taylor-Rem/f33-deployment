@@ -1,17 +1,17 @@
 * {
-    font-family: sans-serif;
+  font-family: sans-serif;
 }
 
 button {
-    background-color: black;
-    color: white;
-    border: none;
-    border-right: 2px solid aqua;
-    border-bottom: 2px solid aqua;
-    padding: 10px 20px;
-    font-weight: bold;
+  background-color: black;
+  color: white;
+  border: none;
+  border-right: 2px solid red;
+  border-bottom: 2px solid red;
+  padding: 10px 20px;
+  font-weight: bold;
 }
 
 p {
-    width: 50%;
+  width: 50%;
 }
